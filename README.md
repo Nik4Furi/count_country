@@ -26,10 +26,7 @@
 ## <h2 id="demo" >Demo </h2>
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/203494510-77735dad-2653-4835-8d86-8915b384abeb.gif" width="500" height="" alt="count_country_home"/>
-    
-    
-  <img src="https://user-images.githubusercontent.com/91304976/203494536-92cc8b0e-1189-4e22-b6c0-81c07418cfcc.gif" width="500" height="" alt="count_country_download"/>  
+  <img src="https://github.com/Nik4Furi/count_country/assets/91304976/ebaa040e-b170-4180-be7e-6d3d6b6747f1" width="500" height="" alt="count_country_home"/>
  </p>
  
 
